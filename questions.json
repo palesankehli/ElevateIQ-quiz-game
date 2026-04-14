@@ -29,7 +29,133 @@
     "answer": "Mercury",
     "hint": "It was commonly used in old-fashioned glass thermometers.",
     "points": 10
+},
+
+{
+    "category": "Geography",
+    "difficulty":"Easy",
+    "question": "Which continent is home to the Sahara Desert?",
+    "options":[],
+    "answer": "Africa",
+    "hint": "It is the second-largest continent in the world.",
+    "points": 2
+},
+
+{
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the smallest country in the world by land area?",
+    "options": [""],
+    "answer": "Vatican City",
+    "hint": "It is the spiritual and administrative center of the Roman Catholic Church.",
+    "points": 5
+},
+
+{
+    "category": "Geography",
+    "difficulty":"Hard",
+    "question": "Which mountain is the furthest point from the Earth's center?",
+    "options":[],
+    "answer": "Mount Chimborazo",
+    "hint": "It is located in the Andes mountain range in Ecuador.",
+    "points": 10
+},
+
+{
+    "category":"History",
+    "difficulty":"Easy",
+    "question": "Which ancient civilization built the Great Pyramids of Giza?",
+    "options":[],
+    "answer": "Ancient Egypt",
+    "hint":"Their rulers were known as Pharaohs.",
+    "points": 2
+
+} ,  
+
+{
+    "category": "History",
+    "difficulty":"Medium",
+    "question": "Who was the first President of South Africa to be elected in a fully representative democratic election?",
+    "options":["Cyril Ramaphosa", "Thabo Mbeki", "Nelson Mandela"],
+    "answer": "Nelson Mandela",
+    "hint": "He was inaugurated in 1994",
+    "points": 5
+},
+
+{
+    "category": "History",
+    "difficulty":"Hard",
+    "question": "In which year did the French Revolution begin?",
+    "options":[],
+    "answer": "1789",
+    "hint": "It was the same year George Washington became the first US President.",
+    "points": 10
+},
+
+{
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What does \"WWW\" stand for in a website address?",
+    "options":[],
+    "answer": "World Wide Web",
+    "hint": "It is the system we use to access pages over the Internet.",
+    "points": 2
+},
+
+{
+    "category": "Technology",
+    "difficulty":"Medium",
+    "question": "Which programming language is often called the \"mother of all languages\" and was developed by Dennis Ritchie at Bell Labs?",
+    "options":[],
+    "answer": "C",
+    "hint": "Many modern languages like Java, C++, and Python are built based on its syntax.",
+    "points": 5
+},
+
+{
+    "category":"Technology",
+    "difficulty":"Hard",
+    "question": "Who is considered the world's first computer programmer for her work on Charles Babbage's early mechanical general-purpose computer?",
+    "options":[],
+    "answer": "Ada Lovelace",
+    "hint": "She was the daughter of the famous poet Lord Byron.",
+    "points": 10
+},
+
+{
+    "category": "Entertainment",
+    "difficulty":"Easy",
+    "question": "In the movie The Lion King, what is the name of Simba’s father?",
+    "options":[],
+    "answer": "Mufasa",
+    "hint": "He is the King of the Pride Lands at the start of the movie.",
+    "points": 2
+},
+
+{
+    "category":"Entertainment",
+    "difficulty": "Medium",
+    "question": "Which artist holds the record for the most Grammy Award wins of all time?",
+    "options":[],
+    "answer": "Beyoncé",
+    "hint": "She is often referred to by her fans as \"Queen Bey.\"",
+    "points": 5
+},
+
+{
+    "category":"Entertainment",
+    "difficulty":"Hard",
+    "question": "What was the first feature-length animated movie ever released?",
+    "options":[],
+    "answer": "Snow White and the Seven Dwarfs",
+    "hint": "It was released by Walt Disney in 1937.",
+    "points": 10
+
 }
+
+
+
+
 
 
 

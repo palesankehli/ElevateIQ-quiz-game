@@ -12,8 +12,8 @@ BOLD = '\033[1m'
 
 def welcome_banner():
   
-    print(f"\n{BURGUNDY}╔" + "═" * 80 + f"╗" )
-    print(f"║" + " " * 30 + f"{GOLD}WELCOME TO ELEVATE IQ" + " " * 29 + f"{BURGUNDY}║")
-    print(f"╚" + "═" *80 + f"╝{RESET}")
+    print(f"\n{BURGUNDY}┏" + "━" * 80 + f"┓" )
+    print(f"┃" + " " * 30 + f"{GOLD}{BOLD}WELCOME TO ELEVATE IQ" + " " * 29 + f"{BURGUNDY}┃")
+    print(f"┗" + "━" *80 + f"┛{RESET}")
 
 welcome_banner()
