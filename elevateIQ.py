@@ -16,5 +16,4 @@ def welcome_banner():
     print(f"║" + " " * 30 + f"{GOLD}WELCOME TO ELEVATE IQ" + " " * 29 + f"{BURGUNDY}║")
     print(f"╚" + "═" *80 + f"╝{RESET}")
 
-welcome = welcome_banner()
-print(welcome)
+welcome_banner()
