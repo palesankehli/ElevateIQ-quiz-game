@@ -1,0 +1,41 @@
+[
+
+
+    {"category": "Science",
+    "difficulty": "Easy",
+    "question": "What is the name of the gas that humans need to breathe in to survive?",
+    "options": ["Hydrogen", "Oxygen", "Carbon dioxide"],
+    "answer": "Oxygen",
+    "hint": "It is produced by plants during photosynthesis.",
+    "points": 2
+    },
+
+
+    {"category": "Science",
+    "difficulty": "Medium",
+    "question": "Which planet in our solar system is known as the \"Red Planet\"?",
+    "options": ["Pluto", "Jupiter", "Mars"],
+    "answer": "Mars",
+    "hint": "It is home to Olympus Mons, the largest volcano in the solar system.",
+    "points": 5
+},
+
+
+{
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "What is the only metal that is in a liquid state at standard room temperature?",
+    "options": [""],
+    "answer": "Mercury",
+    "hint": "It was commonly used in old-fashioned glass thermometers.",
+    "points": 10
+}
+
+
+
+
+
+
+
+
+]
