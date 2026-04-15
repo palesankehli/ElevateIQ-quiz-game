@@ -2,7 +2,7 @@ import json
 
 def main():
     welcome_banner()
-   
+    help_section()
 
 
 def load_data():
